@@ -1,4 +1,4 @@
-# Dream Weaver App 🌙✨
+# Taskflow App 🌙✨
 
 Dream Weaver is a modern productivity and task management dashboard with a clean UI and smooth animations. It helps users manage tasks efficiently using a scalable frontend architecture and Supabase as the backend service.
 
